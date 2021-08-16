@@ -1,0 +1,15 @@
+D:\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+D:\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+D:\App2\App2\App2\bin\Debug\netstandard2.0\ref\App2.dll
+D:\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\App2\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+D:\App2\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+D:\App2\App2\App2\obj\Debug\netstandard2.0\ref\App2.dll
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
+D:\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.AssemblyReference.cache

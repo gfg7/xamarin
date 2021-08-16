@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.MainPage">
+
+    <StackLayout>
+        <Button Text="{Binding Path=Count}" Command="{Binding Command}"/>
+        <Editor Text="{Binding Path=StringProp}"/>
+        <Entry  IsPassword="True" />
+        <Label Text="{Binding Path=ReverseStringProp}"/>
+
+    </StackLayout>
+
+</ContentPage>
